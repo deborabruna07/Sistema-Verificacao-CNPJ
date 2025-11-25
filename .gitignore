@@ -1,0 +1,50 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual Environment ---
+venv/
+env/
+.venv/
+.env/
+
+# --- Distribuição / Pacotes ---
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# --- Configurações ---
+*.cfg
+*.ini
+*.toml
+
+# --- Log / Output ---
+*.log
+*.out
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- VSCode ---
+.vscode/
+
+# --- PyCharm ---
+.idea/
+
+# --- Sistema Operacional ---
+.DS_Store
+Thumbs.db
+
+# --- Arquivos sensíveis ---
+*.env
+.env.local
+
+# --- Banco de dados ---
+*.sqlite3
+*.db
+*.sql
+
+# --- Cache ---
+.cache/
