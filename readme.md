@@ -1,7 +1,6 @@
 # Sistema de Verificação de CNPJ
 
-Este projeto realiza **validação, consulta em API e armazenamento de CNPJs** a partir de arquivos Excel, integrando Python com um banco de dados MySQL.
-O sistema lê planilhas contendo *Razão Social* e *CNPJ*, padroniza os dados, valida os números e salva no banco de dados.
+Este projeto realiza a **validação e consulta de CNPJs por meio de integração com API** e banco de dados MySQL. O sistema lê arquivos Excel contendo Razão Social e CNPJ, padroniza e valida os dados, e armazena as informações no banco. Além disso, ele consulta a API para identificar quais CNPJs estão ativos ou inativos, separando automaticamente esses registros para análise.
 
 
 # Funcionalidades
